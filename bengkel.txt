@@ -1,0 +1,190 @@
+
+
+Nama Pelanggan : 
+Jenis Service : - pilih -
+Mekanik : - pilih -
+Tanggal Masuk : //
+Tanggal Keluar : //
+Keterangan : - pilih -
+
+Nama Pelanggan : 
+Jenis Service : - pilih -
+Mekanik : - pilih -
+Tanggal Masuk : //
+Tanggal Keluar : //
+Keterangan : - pilih -
+
+Nama Pelanggan : yy
+Jenis Service : Ganti Oli
+Mekanik : Ganti Oli
+Tanggal Masuk : 3//
+Tanggal Keluar : /Januari/
+Keterangan : - pilih -
+
+Nama Pelanggan : 
+Jenis Service : - pilih -
+Mekanik : - pilih -
+Tanggal Masuk : //
+Tanggal Keluar : //
+Keterangan : - pilih -
+
+Nama Pelanggan : 
+Jenis Service : - pilih -
+Mekanik : - pilih -
+Tanggal Masuk : //
+Tanggal Keluar : //
+Keterangan : - pilih -
+
+Nama Pelanggan : aqmal 
+Jenis Service : Tune Up
+Mekanik : Tune Up
+Tanggal Masuk : 4/Maret/2022
+Tanggal Keluar : 6/Maret/2022
+Keterangan : lunas
+
+Nama Pelanggan : aqmal 
+Jenis Service : Tambal Ban
+Mekanik : Tambal Ban
+Tanggal Masuk : 4/Februari/2022
+Tanggal Keluar : 6/April/2022
+Keterangan : lunas
+
+Nama Pelanggan : yy
+Jenis Service : - pilih -
+Mekanik : - pilih -
+Tanggal Masuk : //
+Tanggal Keluar : //
+Keterangan : - pilih -
+
+Nama Pelanggan : yy
+Jenis Service : - pilih -
+Mekanik : - pilih -
+Tanggal Masuk : //
+Tanggal Keluar : //
+Keterangan : - pilih -
+
+Nama Pelanggan : 
+Jenis Service : - pilih -
+Mekanik : - pilih -
+Tanggal Masuk : //
+Tanggal Keluar : //
+Keterangan : - pilih -
+
+Nama Pelanggan : 
+Jenis Service : - pilih -
+Mekanik : - pilih -
+Tanggal Masuk : //
+Tanggal Keluar : //
+Keterangan : - pilih -
+
+Nama Pelanggan : yy
+Jenis Service : - pilih -
+Mekanik : - pilih -
+Tanggal Masuk : //
+Tanggal Keluar : //
+Keterangan : - pilih -
+
+Nama Pelanggan : yy
+Jenis Service : - pilih -
+Mekanik : - pilih -
+Tanggal Masuk : //
+Tanggal Keluar : //
+Keterangan : - pilih -
+
+Nama Pelanggan : yy
+Jenis Service : - pilih -
+Mekanik : - pilih -
+Tanggal Masuk : //
+Tanggal Keluar : //
+Keterangan : - pilih -
+
+Nama Pelanggan : yy
+Jenis Service : - pilih -
+Mekanik : - pilih -
+Tanggal Masuk : //
+Tanggal Keluar : //
+Keterangan : - pilih -
+
+Nama Pelanggan : yy
+Jenis Service : - pilih -
+Mekanik : - pilih -
+Tanggal Masuk : //
+Tanggal Keluar : //
+Keterangan : - pilih -
+
+Nama Pelanggan : yy
+Jenis Service : - pilih -
+Mekanik : - pilih -
+Tanggal Masuk : //
+Tanggal Keluar : //
+Keterangan : - pilih -
+
+Nama Pelanggan : yy
+Jenis Service : - pilih -
+Mekanik : - pilih -
+Tanggal Masuk : //
+Tanggal Keluar : //
+Keterangan : - pilih -
+
+Nama Pelanggan : yy
+Jenis Service : - pilih -
+Mekanik : - pilih -
+Tanggal Masuk : //
+Tanggal Keluar : //
+Keterangan : - pilih -
+
+Nama Pelanggan : yy
+Jenis Service : Ganti Oli
+Mekanik : Ganti Oli
+Tanggal Masuk : 1/Maret/
+Tanggal Keluar : //
+Keterangan : - pilih -
+
+Nama Pelanggan : yy
+Jenis Service : Ganti Oli
+Mekanik : Ganti Oli
+Tanggal Masuk : 1/Maret/2021
+Tanggal Keluar : /Februari/2022
+Keterangan : - pilih -
+
+Nama Pelanggan : yy
+Jenis Service : Ganti Oli
+Mekanik : Ganti Oli
+Tanggal Masuk : 1/Maret/2021
+Tanggal Keluar : 1/Februari/2022
+Keterangan : belum lunas
+
+Nama Pelanggan : yy
+Jenis Service : Ganti Oli
+Mekanik : Ganti Oli
+Tanggal Masuk : 1/Maret/2021
+Tanggal Keluar : 1/Februari/2022
+Keterangan : belum lunas
+
+Nama Pelanggan : yy
+Jenis Service : Ganti Oli
+Mekanik : Ganti Oli
+Tanggal Masuk : 1/Maret/2021
+Tanggal Keluar : 1/Februari/2022
+Keterangan : belum lunas
+
+Nama Pelanggan : yy
+Jenis Service : Ganti Oli
+Mekanik : Ganti Oli
+Tanggal Masuk : 1/Maret/2021
+Tanggal Keluar : 1/Februari/2022
+Keterangan : belum lunas
+
+Nama Pelanggan : yy
+Jenis Service : Ganti Oli
+Mekanik : Ganti Oli
+Tanggal Masuk : 1/Maret/2021
+Tanggal Keluar : 1/Februari/2022
+Keterangan : belum lunas
+
+Nama Pelanggan : yy
+Jenis Service : Ganti Oli
+Mekanik : Ganti Oli
+Tanggal Masuk : 1/Januari/2022
+Tanggal Keluar : 2/Januari/2022
+Keterangan : belum lunas
